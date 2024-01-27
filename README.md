@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=b-minseok의 개발&fontSize=90&animation=scaleIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Baekminseokj)](https://github.com/Baekminseokj)
 
@@ -20,11 +20,11 @@
 ---
 **두껍게** <br>
 *기울임* <br>
-~~취소선~~
+~~취소선~~ <br>
 * 1
 * 2
-   1
-  - 2
+- 1
+- 2
   - [네이버](naver.com)
  
 
@@ -34,3 +34,6 @@ System.out.print("안녕?";
 
 😏
 😂
+
+[x] Java
+[x] Python
